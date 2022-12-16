@@ -1,0 +1,12 @@
+:root {
+    --primary: rgb(12, 93, 159);
+    --primary-80: rgba(12, 93, 159, 0.8);
+    --accent: rgba(112, 148, 42, 1);
+    --black: rgb(0, 0, 0);
+    --black-50: rgba(0, 0, 0, 0.5);
+    --black-20: rgba(0, 0, 0, 0.2);
+    --white: rgb(255, 255, 255);
+    --grey: #F7F7F7;
+    --dark: #1C1C1C;
+    --radius: 8px;
+}
